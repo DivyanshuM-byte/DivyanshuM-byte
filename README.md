@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f1923,70:1a2332,100:0d1117&height=140&section=header&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&random=false&width=700&lines=Hey%2C+I'm+Divyanshu+Meena+%F0%9F%91%8B;Full-Stack+Developer+%7C+CS+Student;Building+Real-World+Projects+%F0%9F%9A%80;Networks+%7C+Systems+%7C+Web+Dev)](https://github.com/DivyanshuM-byte)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&random=false&width=700&lines=Hey%2C+I'm+Divyanshu+Meena+%F0%9F%91%8B;Full-Stack+Developer+%7C+CS+Student;Building+CivicAI+%E2%80%94+Governance+Tech+%F0%9F%9A%80;Networks+%7C+Systems+%7C+Web+Dev)](https://github.com/DivyanshuM-byte)
 
 <br/>
 
@@ -25,16 +25,35 @@ const divyanshu = {
   name     : "Divyanshu Meena",
   role     : "CS Student & Full-Stack Developer",
   college  : "IIIT Surat",
-  focus    : ["Web Development", "Networking", "Systems"],
-  currently: "Building projects that solve real problems 🔨",
+  focus    : ["Civic Tech", "Web Development", "Networking", "Systems"],
+  building : "CivicAI — AI-powered governance platform 🏛️",
   funFact  : "I debug with console.log and I'm proud of it 😄",
 };
 ```
 
-- 🎓 **Computer Science student** passionate about building scalable applications  
-- 🌐 Love working at the intersection of **networking** and **full-stack development**  
-- 🛠️ Built projects ranging from **CDN simulators** to **Netflix clones** with real auth  
-- 📈 Always learning, always shipping  
+- 🎓 **Computer Science student** passionate about building scalable applications
+- 🏛️ Currently building **CivicAI** — an enterprise-grade governance & grievance platform
+- 🌐 Love working at the intersection of **networking**, **systems**, and **full-stack development**
+- 🛠️ Built projects ranging from **CDN simulators** to **Netflix clones** with real auth
+- 📈 Always learning, always shipping
+
+---
+
+## 🏛️ Flagship Project — CivicAI
+
+**Next-generation sovereign governance infrastructure** for citizen grievance resolution, automated document verification, and AI-powered fraud detection.
+
+| | |
+|---|---|
+| 🧱 **Stack** | Next.js 16.2 (Turbopack), React 19, TypeScript, Prisma 7.8, PostgreSQL |
+| 🤖 **AI Integration** | OpenAI / Gemini / Groq streaming chat with rule-based fallback |
+| 🔐 **Security** | JWT auth (`jose`), bcrypt hashing, IP-based rate limiting on critical routes |
+| 🔍 **Fraud Detection** | Client-side OCR (Tesseract.js) + automated document anomaly scanning |
+| 🌍 **Accessibility** | Multi-language support (English / Hindi) |
+| 🧪 **Testing** | Vitest (unit + integration) and Playwright (E2E) |
+| 📊 **Roles** | Citizen, Admin & Super Admin command center with public complaint tracking |
+
+**[→ View CivicAI on GitHub](https://github.com/DivyanshuM-byte/CiviCAi)**
 
 ---
 
@@ -51,11 +70,14 @@ const divyanshu = {
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend & Runtime
+### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -67,15 +89,16 @@ const divyanshu = {
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Other Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
 | [🌐 Advanced CDN Simulator](https://github.com/DivyanshuM-byte/advance-CDN-project-based-on-the-computer-network) | CDN Performance Analyzer with edge servers, caching & real-time latency metrics | JavaScript |
-| [🎬 Netflix Clone](https://github.com/DivyanshuM-byte/Netflix-clone) | Full-stack Netflix clone with user auth, frontend & backend | TypeScript |
+| [🎬 Netflix Clone](https://github.com/DivyanshuM-byte/Netflix-clone) | Full-stack Netflix clone with user auth, frontend & backend | TypeScript ⭐1 |
 | [🤖 Chatbot AI](https://github.com/DivyanshuM-byte/Chatbot-ai-) | AI-powered chatbot with intelligent responses | JavaScript |
 | [✅ Task Manager App](https://github.com/DivyanshuM-byte/Task-Manager-Web-App) | Full-stack task management with Node.js, Express & EJS | Node.js |
 | [🏫 College Website Clone](https://github.com/DivyanshuM-byte/collage-website) | Pixel-perfect clone of IIIT Surat's website | HTML/CSS |
+| [⚙️ Systems Software Lab](https://github.com/DivyanshuM-byte/2026-spring-cs403-lab) | Coursework implementing core systems software concepts | Python |
 
 ---
 
