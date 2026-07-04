@@ -23,7 +23,7 @@
 ```typescript
 const divyanshu = {
   name:        "Divyanshu Meena",
-  aka:         "addygeek",
+  aka:         "Div",
   degree:      "B.Tech CSE @ IIIT Surat (2024–2028)",
   role:        "Junior Developer @ Google Developer Group, IIIT Surat",
   clubs:       ["Exposure (Photography)", "Cinemawork (Video Editing)"],
